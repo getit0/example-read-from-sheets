@@ -13,7 +13,7 @@ const seed   = require('../../../utils/save-seed.js');
 // const sheetID = "1CfI6XGm9OjjNKGr3kXRSKVLui_gkHZdadoOPIiNgE9s";
 // const googleSheetUrl = `https://spreadsheets.google.com/feeds/list/${sheetID}/od6/public/values?alt=json`;
 
-const sheetID = "1fRuEqt1XF4LxTlDIGjvtTm_A_lgQmFEZI4j8vRVmTG4";
+const sheetID = "1CfI6XGm9OjjNKGr3kXRSKVLui_gkHZdadoOPIiNgE9s";
 const googleSheetUrl = `https://spreadsheets.google.com/feeds/list/${sheetID}/1/public/values?alt=json`;
 
 module.exports = () => {
